@@ -1,0 +1,10 @@
+git config --global user.name "rishikesh221B" // User name of git
+git config --global user.name "rishi452706@gmail.com" //Email of git account
+git clone https://github.com/rishikesh221B/devops.git //Clone a git repository into a local machine
+ls //List of all files
+cd devops // change directory to a given folder/file
+git add filename.txt
+git add.
+git commit -m "First commit"
+git push origin main 
+
