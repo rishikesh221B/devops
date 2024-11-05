@@ -16,7 +16,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Clone the repository and specify the branch explicitly
-                git branch: 'main', url: 'https://github.com/keertikrith/DevOps-1.git'
+                git branch: 'main', url: 'https://github.com/rishikesh221B/devops.git'
             }
         }
 
